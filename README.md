@@ -1,6 +1,7 @@
 # Global Superstore Analysis PowerBI Dashboard
 
-![1_ysp8MrmEMDN5Iv1gOFg5Dg](https://github.com/user-attachments/assets/1e62af81-8d28-4a35-91fd-0a32ef172b68)
+![1_ysp8MrmEMDN5Iv1gOFg5Dg](https://github.com/user-attachments/assets/6c3d84b2-39ca-4486-bd32-a14e5e8ce0de)
+
 
 
 The Global Superstore Sales Analysis repository showcases a comprehensive Power BI dashboard that provides valuable insights into sales performance.
