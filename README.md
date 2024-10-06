@@ -1,6 +1,6 @@
 # Global Superstore Analysis PowerBI Dashboard
 
-![1_ysp8MrmEMDN5Iv1gOFg5Dg](https://github.com/user-attachments/assets/6c3d84b2-39ca-4486-bd32-a14e5e8ce0de)
+![Uploading image.png…]()
 
 
 
