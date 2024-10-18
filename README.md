@@ -46,4 +46,7 @@ Here's the refined summary with the numbers included:
 3. **Sales vs. Profit Analysis**:
    - Interestingly, higher sales do not always equate to higher profits. For example, in **December**, sales amounted to **$1.57 million**, but the profit was **$168K**. In contrast, **September's** sales were **$1.43 million**, yet it generated a slightly higher profit of **$170K**.
 
+4. **Category-wise Sales vs. Profit Analysis**:
+   - When comparing the three categories—Furniture, Office Supplies, and Technology—Office Supplies emerged as the most profitable, followed by Technology and then 
+     Furniture.
 
