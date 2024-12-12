@@ -50,14 +50,14 @@ Here's the refined summary with the numbers included:
    - When comparing the three categories—Furniture, Office Supplies, and Technology—Office Supplies emerged as the most profitable, followed by Technology and then 
      Furniture.
 
-5. **Sub-Category-wise Sale and Avg. Profit**
+5. **Sub-Category-wise Sale and Avg. Profit**:
    - On analyzing sub-category-wise sales, it was observed that Copiers, with the second-highest sales of $1.51M, generate the maximum average profit. Despite 
      Phones achieving the highest sales of $1.71M, they do not yield the highest average profit. On the other hand, Tables, despite generating sales of $0.75M, 
      operate as a loss-making business. 
 
-# **Key Influencers Analysis:**
+ **Key Influencers Analysis**
 
-* What influences the sales to decrease ?
+* The parameters influencing the sales to decrease are as follows :  
   
 * Category is Office Supplies:
   - Sales are most likely to decrease when the category is Office Supplies, with an average sales drop of 318.5 compared to other categories.
