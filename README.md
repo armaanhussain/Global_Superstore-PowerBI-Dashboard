@@ -57,13 +57,14 @@ Here's the refined summary with the numbers included:
 
  **Key Influencers Analysis**
 
-* The parameters influencing the sales to decrease are as follows :  
+**The parameters influencing the sales to decrease are as follows** :  
   
 * Category is Office Supplies:
-  - Sales are most likely to decrease when the category is Office Supplies, with an average sales drop of 318.5 compared to other categories.
-    Average of Quantity:
+  - Sales are most likely to decrease when the category is Office Supplies, with an average sales drop of 318.5 compared to
+    other categories.
 
-* Low quantities are a major factor in reduced sales:
+* Average of Quantity:
+   * Low quantities are a major factor in reduced sales:
    - Quantity of 1 or less reduces average sales to 206.
    - Quantity between 1 and 2 lowers average sales to 133.9.
    - Quantity between 2 and 3 further decreases average sales to 57.17.
@@ -71,4 +72,23 @@ Here's the refined summary with the numbers included:
 * Discounts:
    - High discounts contribute significantly to decreased sales:
    - When the average discount exceeds 0.57, sales drop to 170.8.
+
+
+**The parameters influencing the sales to increase are as follows** :  
+  
+* Category is Technology:
+   - Sales are most likely to increase when the category is Technology, with an average sales boost of 282.4 compared to other categories.
+
+*Average of Quantity:
+   * Higher quantities strongly contribute to increased sales:
+   - Quantity greater than 5 significantly raises average sales to 318.1.
+   - Quantity between 3 and 5, though positive, yields comparatively lower average sales at 117.4.
+
+
+*Discounts:
+   * Moderate discounts have a strong positive impact on sales:
+   - Average discounts between 0 and 0.07 lead to the highest sales, averaging 328.6.
+   - Discounts between 0.07 and 0.15 maintain higher sales than larger discounts, averaging 194.7.
+
+
 
