@@ -55,7 +55,7 @@ Here's the refined summary with the numbers included:
      Phones achieving the highest sales of $1.71M, they do not yield the highest average profit. On the other hand, Tables, despite generating sales of $0.75M, 
      operate as a loss-making business. 
 
- **Key Influencers Analysis**
+ **KEY INFLUENCERS ANALYSIS**
 
 **The parameters influencing the sales to decrease are as follows** :  
   
@@ -79,13 +79,13 @@ Here's the refined summary with the numbers included:
 * Category is Technology:
    - Sales are most likely to increase when the category is Technology, with an average sales boost of 282.4 compared to other categories.
 
-*Average of Quantity:
+* Average of Quantity:
    * Higher quantities strongly contribute to increased sales:
    - Quantity greater than 5 significantly raises average sales to 318.1.
    - Quantity between 3 and 5, though positive, yields comparatively lower average sales at 117.4.
 
 
-*Discounts:
+* Discounts:
    * Moderate discounts have a strong positive impact on sales:
    - Average discounts between 0 and 0.07 lead to the highest sales, averaging 328.6.
    - Discounts between 0.07 and 0.15 maintain higher sales than larger discounts, averaging 194.7.
