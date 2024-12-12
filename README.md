@@ -73,7 +73,6 @@ Here's the refined summary with the numbers included:
    - High discounts contribute significantly to decreased sales:
    - When the average discount exceeds 0.57, sales drop to 170.8.
 
-![Screenshot (503)](https://github.com/user-attachments/assets/15a2ed9f-c432-4834-a584-d30e7c33dd15) ![Screenshot (505)](https://github.com/user-attachments/assets/414317c0-73a4-435a-bfdc-f5faac0b06f9)
 
 **The parameters influencing the sales to increase are as follows** :
   
