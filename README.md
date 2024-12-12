@@ -55,7 +55,7 @@ Here's the refined summary with the numbers included:
      Phones achieving the highest sales of $1.71M, they do not yield the highest average profit. On the other hand, Tables, despite generating sales of $0.75M, 
      operate as a loss-making business. 
 
-**Key Influencers Analysis:**
+# **Key Influencers Analysis:**
 
 * What influences the sales to decrease ?
   
