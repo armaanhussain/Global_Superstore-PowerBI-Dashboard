@@ -59,9 +59,6 @@ Here's the refined summary with the numbers included:
 
 **The parameters influencing the sales to decrease are as follows** :  
 
-![Screenshot (503)](https://github.com/user-attachments/assets/15a2ed9f-c432-4834-a584-d30e7c33dd15)
-
-  
 * Category is Office Supplies:
   - Sales are most likely to decrease when the category is Office Supplies, with an average sales drop of 318.5 compared to
     other categories.
@@ -76,12 +73,9 @@ Here's the refined summary with the numbers included:
    - High discounts contribute significantly to decreased sales:
    - When the average discount exceeds 0.57, sales drop to 170.8.
 
+![Screenshot (503)](https://github.com/user-attachments/assets/15a2ed9f-c432-4834-a584-d30e7c33dd15) ![Screenshot (505)](https://github.com/user-attachments/assets/414317c0-73a4-435a-bfdc-f5faac0b06f9)
 
 **The parameters influencing the sales to increase are as follows** :
-
-![Screenshot (505)](https://github.com/user-attachments/assets/414317c0-73a4-435a-bfdc-f5faac0b06f9)
-
-
   
 * Category is Technology:
    - Sales are most likely to increase when the category is Technology, with an average sales boost of 282.4 compared to other categories.
