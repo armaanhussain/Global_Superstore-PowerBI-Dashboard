@@ -55,4 +55,20 @@ Here's the refined summary with the numbers included:
      Phones achieving the highest sales of $1.71M, they do not yield the highest average profit. On the other hand, Tables, despite generating sales of $0.75M, 
      operate as a loss-making business. 
 
+**Key Influencers Analysis:**
+
+* What influences the sales to decrease ?
+  
+* Category is Office Supplies:
+  - Sales are most likely to decrease when the category is Office Supplies, with an average sales drop of 318.5 compared to other categories.
+    Average of Quantity:
+
+* Low quantities are a major factor in reduced sales:
+   - Quantity of 1 or less reduces average sales to 206.
+   - Quantity between 1 and 2 lowers average sales to 133.9.
+   - Quantity between 2 and 3 further decreases average sales to 57.17.
+
+* Discounts:
+   - High discounts contribute significantly to decreased sales:
+   - When the average discount exceeds 0.57, sales drop to 170.8.
 
