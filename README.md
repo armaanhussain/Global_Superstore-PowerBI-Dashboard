@@ -89,6 +89,26 @@ Here's the refined summary with the numbers included:
    * Moderate discounts have a strong positive impact on sales:
    - Average discounts between 0 and 0.07 lead to the highest sales, averaging 328.6.
    - Discounts between 0.07 and 0.15 maintain higher sales than larger discounts, averaging 194.7.
+ 
+**Profit by Category**:
+ - The Categoris making maximum profit are Technology followed by Office Supplies followed by Furniture.
+ - Tech (Technology) category is making the maximum profit
+   of about 0.44M.
+ - Office Supplies comes at second making a profit of 0.36M.
+ - And at third comes Furniture making a profit of 0.22M.
+
+**Sales by Category**:
+ - The Categoris making maximum Sales are Technology followed by Furniture followed by Office Supplies.
+ - Tech (Technology) category is making the maximum Sales 
+   of about 4.7M.
+ - Furniture comes at second making a sales of 4.1M.
+ - And at third comes Office Supplies making a sales of 3.8M.
+
+**Quandity by Category**:
+ - The Categoris selling maximum Quantities are Office Supplies followed by Technology followed by Furniture.
+ - Office Supplies is the category selling the maximum quantity of about 180K items.
+ - Technology comes at second selling about 35K items.
+ - And at third comes Furniture selling about slightly less than 35K items.
 
 
 
