@@ -110,5 +110,29 @@ Here's the refined summary with the numbers included:
  - Technology comes at second selling about 35K items.
  - And at third comes Furniture selling about slightly less than 35K items.
 
+**Insights from Sales, Quantity, and Shipping Cost Analysis by Country**
+
+1. **Profit by Country**  
+   - The United States leads with the highest profit of **0.29M**.  
+   - Other significant contributors to profit include **China (0.15M)** and **India (0.13M)**.  
+   - European countries like the **United Kingdom (0.11M)** and **France (0.10M)** also perform well.  
+   - Smaller contributions come from countries like **El Salvador (0.04M)** and **Spain (0.05M)**.
+
+2. **Quantity by Country**  
+   - The United States dominates in quantity sold with **38K units**.  
+   - France and Australia follow with **11K units each**, indicating strong sales performance.  
+   - Other notable contributors include **Mexico (10K)** and **Germany (8K)**.  
+   - The bottom contributors are **India (6K)** and **Indonesia (5K)**, reflecting comparatively lower sales volume.
+
+3. **Shipping Cost by Country**  
+   - The United States incurs the highest shipping cost at **0.24M**, aligning with its top sales and profit figures.  
+   - Australia is next with **0.10M**, followed by **France (0.10M)** and **China (0.08M)**.  
+   - Shipping costs for smaller markets like **Indonesia (0.05M)** and **Brazil (0.05M)** are much lower, possibly due to lesser sales or optimized logistics.
+
+   **Key Takeaways**  
+    - The United States is a dominant market across all metrics (Profit, Quantity, and Shipping Costs).  
+    - China and European countries like France and Germany are crucial contributors, though there is scope for reducing shipping costs.  
+    - Expanding and optimizing operations in emerging markets like India and Indonesia could improve performance.
+
 
 
