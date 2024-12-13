@@ -51,8 +51,8 @@ Here's the refined summary with the numbers included:
      Furniture.
 
 5. **Sub-Category-wise Sale and Avg. Profit**:
-   - On analyzing sub-category-wise sales, it was observed that Copiers, with the second-highest sales of $1.51M, generate the maximum average profit. Despite 
-     Phones achieving the highest sales of $1.71M, they do not yield the highest average profit. On the other hand, Tables, despite generating sales of $0.75M, 
+   - On analyzing sub-category-wise sales, it was observed that Copiers, with the second-highest sales of **$1.51M**, generate the maximum average profit. Despite 
+     Phones achieving the highest sales of **$1.71M**, they do not yield the highest average profit. On the other hand, Tables, despite generating sales of **$0.75M**, 
      operate as a loss-making business. 
 
  **KEY INFLUENCERS ANALYSIS**
@@ -60,55 +60,55 @@ Here's the refined summary with the numbers included:
 **The parameters influencing the sales to decrease are as follows** :  
 
 * Category is Office Supplies:
-  - Sales are most likely to decrease when the category is Office Supplies, with an average sales drop of 318.5 compared to
+  - Sales are most likely to decrease when the category is Office Supplies, with an average sales drop of **318.5** compared to
     other categories.
 
 * Average of Quantity:
    * Low quantities are a major factor in reduced sales:
-   - Quantity of 1 or less reduces average sales to 206.
-   - Quantity between 1 and 2 lowers average sales to 133.9.
-   - Quantity between 2 and 3 further decreases average sales to 57.17.
+   - Quantity of **1** or less reduces average sales to **206**.
+   - Quantity between **1** and **2** lowers average sales to **133.9**.
+   - Quantity between **2** and **3** further decreases average sales to **57.17**.
 
 * Discounts:
    - High discounts contribute significantly to decreased sales:
-   - When the average discount exceeds 0.57, sales drop to 170.8.
+   - When the average discount exceeds **0.57**, sales drop to **170.8**.
 
 
 **The parameters influencing the sales to increase are as follows** :
   
 * Category is Technology:
-   - Sales are most likely to increase when the category is Technology, with an average sales boost of 282.4 compared to other categories.
+   - Sales are most likely to increase when the category is Technology, with an average sales boost of **282.4** compared to other categories.
 
 * Average of Quantity:
    * Higher quantities strongly contribute to increased sales:
-   - Quantity greater than 5 significantly raises average sales to 318.1.
-   - Quantity between 3 and 5, though positive, yields comparatively lower average sales at 117.4.
+   - Quantity greater than **5** significantly raises average sales to **318.1**.
+   - Quantity between **3** and **5**, though positive, yields comparatively lower average sales at **117.4**.
 
 
 * Discounts:
    * Moderate discounts have a strong positive impact on sales:
-   - Average discounts between 0 and 0.07 lead to the highest sales, averaging 328.6.
-   - Discounts between 0.07 and 0.15 maintain higher sales than larger discounts, averaging 194.7.
+   - Average discounts between **0** and **0.07** lead to the highest sales, averaging **328.6**.
+   - Discounts between **0.07** and **0.15** maintain higher sales than larger discounts, averaging **194.7**.
  
 **Profit by Category**:
  - The Categoris making maximum profit are Technology followed by Office Supplies followed by Furniture.
  - Tech (Technology) category is making the maximum profit
-   of about 0.44M.
- - Office Supplies comes at second making a profit of 0.36M.
- - And at third comes Furniture making a profit of 0.22M.
+   of about **0.44M**.
+ - Office Supplies comes at second making a profit of **0.36M**.
+ - And at third comes Furniture making a profit of **0.22M**.
 
 **Sales by Category**:
  - The Categoris making maximum Sales are Technology followed by Furniture followed by Office Supplies.
  - Tech (Technology) category is making the maximum Sales 
-   of about 4.7M.
- - Furniture comes at second making a sales of 4.1M.
- - And at third comes Office Supplies making a sales of 3.8M.
+   of about **4.7M**.
+ - Furniture comes at second making a sales of **4.1M**.
+ - And at third comes Office Supplies making a sales of **3.8M**.
 
 **Quandity by Category**:
  - The Categoris selling maximum Quantities are Office Supplies followed by Technology followed by Furniture.
- - Office Supplies is the category selling the maximum quantity of about 180K items.
- - Technology comes at second selling about 35K items.
- - And at third comes Furniture selling about slightly less than 35K items.
+ - Office Supplies is the category selling the maximum quantity of about **180K** items.
+ - Technology comes at second selling about **35K** items.
+ - And at third comes Furniture selling about slightly less than **35K** items.
 
 **Insights from Sales, Quantity, and Shipping Cost Analysis by Country**
 
